@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "p1",
+      "description": "n1",
+      "price": "10",
+      "inStock": false,
+      "id": 1
+    }
+  ]
+}
